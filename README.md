@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑻𝑰𝑶𝑵
+## 🎀 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑰𝑵𝑭𝑶𝑹𝑴𝑨𝑻𝑰𝑶𝑵
 
 <p align="center">
   <table align="center">
@@ -28,12 +28,12 @@
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/user.png" width="30"><br>
         <b>Developer</b><br>
-        <span style="font-size: 1.2em;">✨ Mueid Mursalin Rifat ✨</span>
+        <span style="font-size: 1.2em;">✨ Mᴀʜɪɴ ᴀʜᴍᴇᴅ 🎀 </span>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30"><br>
         <b>Facebook</b><br>
-        <a href="https://www.facebook.com/mueid.mursalin.rifat1">@mueid.mursalin.rifat1</a>
+        <a href="https://www.facebook.com/RentaroAijo.4x">@Rentaro Aijo </a>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/verified-account.png" width="30"><br>
@@ -112,8 +112,6 @@
 ## 📸 𝑺𝑪𝑹𝑬𝑬𝑵𝑺𝑯𝑶𝑻𝑺
 
 <p align="center">
-  <img src="https://files.catbox.moe/b8w1jg.jpg" width="30%" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/d5l1pr.jpg" width="30%" style="border-radius: 10px; margin: 5px;">
   <img src="https://files.catbox.moe/jj4owd.jpg" width="30%" style="border-radius: 10px; margin: 5px;">
 </p>
 
