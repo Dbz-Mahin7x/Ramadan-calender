@@ -1,4 +1,6 @@
+Here's the complete README.md with all text in English but maintaining the stylish fonts:
 
+```markdown
 <p align="center">
   <img src="https://files.catbox.moe/jj4owd.jpg" alt="Ramadan Calendar Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 </p>
@@ -15,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&weight=700&size=30&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=%F0%9F%8C%99+%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8+%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%95+%F0%9F%8C%99;%F0%9F%8C%99+Ramadan+Mubarak+%F0%9F%8C%99" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Amiri&weight=700&size=30&duration=3000&pause=1000&color=F7B42C&center=true&vCenter=true&width=600&lines=%F0%9F%8C%99+Ramadan+Mubarak+%F0%9F%8C%99;%F0%9F%8C%99+Welcome+to+Ramadan+Calendar+%F0%9F%8C%99" alt="Typing SVG">
 </p>
 
 ---
@@ -28,12 +30,12 @@
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/user.png" width="30"><br>
         <b>Developer</b><br>
-        <span style="font-size: 1.2em;">✨ Mᴀʜɪɴ ᴀʜᴍᴇᴅ 🎀 </span>
+        <span style="font-size: 1.2em;">✨ Mahin Ahmed 🎀</span>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30"><br>
         <b>Facebook</b><br>
-        <a href="https://www.facebook.com/RentaroAijo.4x">@Rentaro Aijo </a>
+        <a href="https://www.facebook.com/RentaroAijo.4x">@Rentaro Aijo</a>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/verified-account.png" width="30"><br>
@@ -49,13 +51,17 @@
 ## 🎯 𝑳𝑰𝑽𝑬 𝑫𝑬𝑴𝑶
 
 <p align="center">
-  <a href="https://ramadan-calender-three.vercel.app/">
+  <a href="https://mahiru-ramadan-calender.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-ff69b4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://ramadan-calender-three.vercel.app/" alt="QR Code">
+  <a href="https://mahiru-ramadan-calender.vercel.app/">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://mahiru-ramadan-calender.vercel.app/" alt="QR Code">
+  </a>
+  <br>
+  <sub>✨ Scan to visit live demo ✨</sub>
 </p>
 
 ---
@@ -66,15 +72,15 @@
   <table>
     <tr>
       <td>🇧🇩</td>
-      <td><b>বাংলাদেশের ৬৪ জেলার ইফতার ও সেহেরির সময়সূচী</b></td>
+      <td><b>Iftar & Seheri times for all 64 districts of Bangladesh</b></td>
     </tr>
     <tr>
       <td>🌙</td>
-      <td><b>Complete Ramadan calendar for all 64 districts of Bangladesh</b></td>
+      <td><b>Complete Ramadan calendar with 30-day schedule</b></td>
     </tr>
     <tr>
       <td>⏰</td>
-      <td><b>Real-time Iftar & Seheri times with countdown</b></td>
+      <td><b>Real-time Iftar countdown timer</b></td>
     </tr>
     <tr>
       <td>🤲</td>
@@ -90,18 +96,18 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/map.png"><br><b>🗺️ ৬৪ জেলা</b><br>All 64 Districts</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/sunset.png"><br><b>🌅 সেহেরি</b><br>Seheri Times</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/moon-symbol.png"><br><b>🌇 ইফতার</b><br>Iftar Times</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/map.png"><br><b>🗺️ 64 Districts</b><br>All Districts Covered</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/sunset.png"><br><b>🌅 Seheri</b><br>Seheri Times</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/moon-symbol.png"><br><b>🌇 Iftar</b><br>Iftar Times</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/hourglass.png"><br><b>⏰ কাউন্টডাউন</b><br>Live Countdown</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/prayer.png"><br><b>🤲 দোয়া</b><br>Ramadan Duas</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/calendar.png"><br><b>📅 ক্যালেন্ডার</b><br>30 Days Calendar</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/hourglass.png"><br><b>⏰ Countdown</b><br>Live Countdown</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/prayer.png"><br><b>🤲 Duas</b><br>Ramadan Duas</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/calendar.png"><br><b>📅 Calendar</b><br>30 Days Calendar</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/search.png"><br><b>🔍 সার্চ</b><br>District Search</td>
-      <td align="center"><img src="https://img.icons8.com/color/48/000000/marker.png"><br><b>📍 নিয়ারবাই</b><br>Nearby Districts</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/search.png"><br><b>🔍 Search</b><br>District Search</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/marker.png"><br><b>📍 Nearby</b><br>Nearby Districts</td>
       <td align="center"><img src="https://img.icons8.com/color/48/000000/api.png"><br><b>🔄 API</b><br>REST API Support</td>
     </tr>
   </table>
@@ -171,7 +177,7 @@ python app.py
    · Click "New +" → "Web Service"
 3. Connect Repository
    · Select your GitHub repo
-   · Connect
+   · Click "Connect"
 4. Configure Settings
    ```
    Name: ramadan-calendar
@@ -217,7 +223,7 @@ python app.py
    ```
 6. Click "Deploy"
    · Deployment takes ~1 minute
-   · Your app will be live at https://ramadan-calendar.vercel.app
+   · Your app will be live at https://mahiru-ramadan-calender.vercel.app
 
 </details>
 
@@ -288,7 +294,7 @@ python app.py
 3. Deploy
    · Push to GitHub
    · Import to Netlify
-   · Deploy
+   · Click "Deploy"
 
 </details>
 
@@ -354,17 +360,14 @@ Endpoint Method Description
 📞 𝑪𝑶𝑵𝑻𝑨𝑪𝑻 & 𝑺𝑼𝑷𝑷𝑶𝑹𝑻
 
 <p align="center">
-  <a href="https://www.facebook.com/mueid.mursalin.rifat1">
+  <a href="https://www.facebook.com/RentaroAijo.4x">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" width="40">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Mahinstarou@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Dbz-Mahin7x">
     <img src="https://img.icons8.com/color/48/000000/github.png" width="40">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40">
   </a>
 </p>
 
@@ -392,7 +395,7 @@ see the LICENSE file for details.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=25&duration=2000&pause=500&color=F7B42C&center=true&vCenter=true&width=435&lines=%F0%9F%8C%99+%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8+%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%95+%F0%9F%8C%99;%E2%80%8F%D8%B1%D9%85%D8%B6%D8%A7%D9%86+%D9%85%D8%A8%D8%A7%D8%B1%DA%A9;Ramadan+Mubarak!">
+  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=25&duration=2000&pause=500&color=F7B42C&center=true&vCenter=true&width=435&lines=%F0%9F%8C%99+Ramadan+Mubarak+%F0%9F%8C%99;%E2%80%8F%D8%B1%D9%85%D8%B6%D8%A7%D9%86+%D9%85%D8%A8%D8%A7%D8%B1%DA%A9;Ramadan+Mubarak!">
 </p>
 
 <p align="center">
@@ -403,5 +406,3 @@ see the LICENSE file for details.
 <p align="center">
   <img src="https://profile-counter.glitch.me/ramadan-calendar/count.svg">
 </p>
-```
-
