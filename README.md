@@ -1,6 +1,4 @@
-Here's the complete README.md with all text in English but maintaining the stylish fonts:
 
-```markdown
 <p align="center">
   <img src="https://files.catbox.moe/jj4owd.jpg" alt="Ramadan Calendar Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 </p>
