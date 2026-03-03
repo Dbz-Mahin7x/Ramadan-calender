@@ -1,14 +1,15 @@
+# netlify.toml
 [build]
   command = "pip install -r requirements.txt"
-  functions = "functions"
+  functions = "netlify/functions"
   publish = "."
-
-[functions]
-  directory = "functions"
-  python_version = "3.9"
 
 [build.environment]
   PYTHON_VERSION = "3.9"
+
+[functions]
+  directory = "netlify/functions"
+  python_version = "3.9"
 
 [[redirects]]
   from = "/*"
