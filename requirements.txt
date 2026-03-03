@@ -1,0 +1,39 @@
+# Netlify Functions Requirements for Ramadan Calendar Pro
+# Developed with ®️ by Mahin Ahmed 2026
+# All Rights Reserved
+
+# Core Dependencies
+Flask==2.3.3
+flask-cors==4.0.0
+requests==2.31.0
+cachetools==5.3.1
+
+# Netlify Serverless Compatible
+python-dotenv==1.0.0
+pytz==2023.3
+werkzeug==2.3.7
+click==8.1.7
+itsdangerous==2.1.2
+blinker==1.7.0
+
+# HTTP & Networking
+urllib3==2.0.7
+certifi==2023.7.22
+idna==3.4
+charset-normalizer==3.3.0
+
+# Data Processing
+python-dateutil==2.8.2
+six==1.16.0
+typing-extensions==4.8.0
+
+# Netlify Specific - DO NOT include gunicorn (not compatible with serverless)
+# Use these for serverless functions instead
+# flask-serverless is not needed - Flask works directly
+
+# Development Only (not used in production)
+# pytest==7.4.3
+# pytest-cov==4.1.0
+
+# Note: For Netlify, we use the python:3.9 runtime
+# Make sure your netlify.toml points to the right Python version
